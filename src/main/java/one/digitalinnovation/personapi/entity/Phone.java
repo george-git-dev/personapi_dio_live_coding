@@ -1,10 +1,10 @@
-package one.digitalinnovation.personapi.entity;
+package one.digitalinnovation.PersonAPI.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import one.digitalinnovation.personapi.enums.PhoneType;
+import one.digitalinnovation.PersonAPI.enums.PhoneType;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
